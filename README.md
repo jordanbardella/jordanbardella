@@ -18,7 +18,7 @@
 </div>
 <br><br>
 <pre>
-    💼 Low level dev 
+    💼 High & Low level dev 
     📖 Distributed systems
     🐾 Music • Games • Code
 </pre>
