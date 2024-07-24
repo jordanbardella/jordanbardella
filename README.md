@@ -1,8 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&pause=1000&color=F780AF&center=true&random=false&width=435&lines=+Developper+%26+La+France+Au+Français+🧠" width="40%" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jordanbardella&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="115" alt="languages graph"  />
 </div>
 <div align="center">
   <a href="https://t.me/masturbateur" target="_blank">
