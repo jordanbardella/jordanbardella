@@ -8,7 +8,7 @@
   <a href="https://www.codingame.com/profile/b8e535427752e1e8d371d5fb2c1d21413584906" target="_blank">
     <img src="https://img.shields.io/static/v1?message=ClashOfCode&logo=&label=&color=fff400&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="clashofcode logo"  />
   </a>
-  <a href="https://discord://-/users/1095079849678348288" target="_blank">
+  <a href="https://discord://-/users/1180945007490900052" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="discord logo"  />
   </a>
 </div>
